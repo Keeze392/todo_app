@@ -1,0 +1,10 @@
+[package]
+name = "todo_program"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.33"
+egui = "0.33"
+egui_dnd = "0.14"
+#tokio = { version = "1.49", features = ["full"] }
