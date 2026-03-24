@@ -1,7 +1,7 @@
 [![Language](https://img.shields.io/badge/language-Rust-orange)](#)
 [![Platform](https://img.shields.io/badge/platform-Linux-green)](#)
 
-<img width="500" height="364" src= https://github.com/user-attachments/assets/fd326cba-fa61-4328-b9df-03f1fd566475 /><img width="500" height="364" src= https://github.com/user-attachments/assets/ca9433a3-5b78-41f8-b436-a2e5d5f2c1f1 />
+<img width="450" height="334" src= https://github.com/user-attachments/assets/fd326cba-fa61-4328-b9df-03f1fd566475 /><img width="450" height="334" src= https://github.com/user-attachments/assets/ca9433a3-5b78-41f8-b436-a2e5d5f2c1f1 />
 
 ### **About**
 A simple ToDo App, run GUI using egui.
