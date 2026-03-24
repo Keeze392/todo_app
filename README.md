@@ -6,6 +6,12 @@
 ### **About**
 A simple ToDo App, run GUI using egui.
 
+### **Features**
+- Drag and drop feature
+- Dark mode and Light mode
+- Each has own Delete button
+- Add has shortcut "Enter" key
+
 ### **How to use**
 You can download by [Release](https://github.com/Keeze392/todo_app/releases/tag/0.1.0).
 
