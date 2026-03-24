@@ -7,4 +7,5 @@ edition = "2024"
 eframe = "0.33"
 egui = "0.33"
 egui_dnd = "0.14"
+egui_extras = { version = "0.33", features = ["image"] }
 #tokio = { version = "1.49", features = ["full"] }
